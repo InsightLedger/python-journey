@@ -45,5 +45,5 @@ height = 5.8
 
 print(name)
 print(age)
-print(height)
+print(height).
 
